@@ -11,3 +11,6 @@ cats.py: The typing test logic
 3. Class Project Site
 
 https://cs61a.org/proj/cats/#introduction
+
+https://github.com/anhvo2712/CS61A-Cat-Project/assets/146797707/365ef07d-3a0f-4e31-8fae-a7391dc51896
+
