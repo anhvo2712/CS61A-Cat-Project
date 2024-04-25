@@ -1,16 +1,27 @@
 # Autocorrected Typing Software
-1. Introduction
+Cats is a typing speed measurement and error correction project.
 
-A program that measures typing speed and implements typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it.
-
-2. Files
-
-Files in the project:
-
-cats.py: The typing test logic
-3. Class Project Site
-
-https://cs61a.org/proj/cats/#introduction
+# Overview
+Cats is a typing speed measurement and error correction project.
 
 https://github.com/anhvo2712/CS61A-Cat-Project/assets/146797707/365ef07d-3a0f-4e31-8fae-a7391dc51896
+
+# Description
+Hosted on cats.cs61a.org
+
+The project aims to develop a Python program to measure typing speed and correct spelling errors
+
+Key aspects of the project include file manipulation, string handling, debugging, and testing
+
+# Skills
+File Manipulation
+
+String Handling
+
+Debugging
+
+Testing
+
+Web Development
+
 
